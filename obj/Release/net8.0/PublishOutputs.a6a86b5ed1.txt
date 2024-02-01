@@ -1,0 +1,15 @@
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/TestAppConfig
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/appsettings.Development.json
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/appsettings.json
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/TestAppConfig.dll
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/TestAppConfig.deps.json
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/TestAppConfig.runtimeconfig.json
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/TestAppConfig.pdb
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/Azure.Core.dll
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/Azure.Data.AppConfiguration.dll
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/Azure.Messaging.EventGrid.dll
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/Azure.Security.KeyVault.Secrets.dll
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/Microsoft.Azure.AppConfiguration.AspNetCore.dll
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/Microsoft.Bcl.AsyncInterfaces.dll
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+/home/p10/Documents/TestAppConfig/bin/Release/net8.0/publish/System.Memory.Data.dll
